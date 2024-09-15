@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Travels and Tourism",
+      "price": "100$",
       "description": "Booking1 airline tickets, hotel reservations, tourist visas and security approvals",
       "image": "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148515661.jpg"
     },
@@ -10,18 +11,21 @@
       "id": 2,
       "title": "Granting scholarships",
       "description": "Providing educational scholarships, writing academic recommendations, preparing résumés/CVs",
+      "price": "200$",
       "image": "https://img.freepik.com/free-photo/rendering-smart-home-device_23-2151039301.jpg"
     },
     {
       "id": 3,
       "title": "Translation Services",
       "description": "Translation of legal, commercial, and governmental documents, as well as travel documents",
+      "price": "300$",
       "image": "https://img.freepik.com/free-photo/rendering-smart-home-device_23-2151039316.jpg"
     },
     {
       "id": 4,
       "title": "Consultation and legal representation",
       "description": "Providing comprehensive business consulting, legal services and handling commercial cases",
+      "price": "500$",
       "image": "https://unblast.com/wp-content/uploads/2020/10/Graphic-Design-Workstation-Illustration-0.jpg"
     }
   ],
